@@ -6,7 +6,7 @@ Example of automated tests for Match app with Selenium WebDriver and Java
 -Selenium WebDrivet
 
 -TestNG
-#Requirements
+# Requirements
 On local machine has to be installed
 
 -[Maven 3](https://maven.apache.org/download.cgi)
@@ -20,13 +20,13 @@ On local machine has to be installed
 -Chrome
 
 -Firefox
-#Running project
-1.Download project to local machine
+# Running project
+1. Download project to local machine
 
-2.Import project to IntelliJ IDEA.
+2. Import project to IntelliJ IDEA.
 
-3.To run all tests: select codacollectiontests package under scr/test/java --> right click --> Run Test in codacollectiontests
-#Additional
+3. To run all tests: select pagetests package under scr/test/java --> right click --> Run Test in pagetests
+# Additional
 To change JDK version: File --> Project Structure 
 
 To update pom.xml file: pom.xml --> Maven --> Reload All Maven Projects
